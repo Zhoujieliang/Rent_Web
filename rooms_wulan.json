@@ -1,0 +1,256 @@
+{
+    "101\u623f": {
+        "rent": 400,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 0,
+                "elec": 0
+            }
+        }
+    },
+    "102\u623f": {
+        "rent": 360,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 210,
+                "elec": 4445
+            }
+        }
+    },
+    "103\u623f": {
+        "rent": 360,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 331,
+                "elec": 4088
+            },
+            "2026-1": {
+                "water": 400.0,
+                "elec": 4444.0
+            }
+        }
+    },
+    "201\u623f": {
+        "rent": 550,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 383,
+                "elec": 8209
+            }
+        }
+    },
+    "202\u623f": {
+        "rent": 550,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 552,
+                "elec": 10993
+            }
+        }
+    },
+    "203\u623f": {
+        "rent": 400,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 244,
+                "elec": 7215
+            }
+        }
+    },
+    "205\u623f": {
+        "rent": 400,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 128,
+                "elec": 3671
+            }
+        }
+    },
+    "206\u623f": {
+        "rent": 400,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 68,
+                "elec": 2121
+            }
+        }
+    },
+    "207\u623f": {
+        "rent": 400,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 207,
+                "elec": 5111
+            }
+        }
+    },
+    "301\u623f": {
+        "rent": 550,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 257,
+                "elec": 1016
+            }
+        }
+    },
+    "302\u623f": {
+        "rent": 550,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 133,
+                "elec": 4022
+            }
+        }
+    },
+    "303\u623f": {
+        "rent": 400,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 122,
+                "elec": 3662
+            }
+        }
+    },
+    "305\u623f": {
+        "rent": 400,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 93,
+                "elec": 4503
+            },
+            "2026-1": {
+                "water": 100.0,
+                "elec": 4555.0
+            }
+        }
+    },
+    "306\u623f": {
+        "rent": 400,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 135,
+                "elec": 2973
+            }
+        }
+    },
+    "307\u623f": {
+        "rent": 400,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 225,
+                "elec": 6079
+            }
+        }
+    },
+    "401\u623f": {
+        "rent": 550,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 378,
+                "elec": 8369
+            }
+        }
+    },
+    "402\u623f": {
+        "rent": 550,
+        "water_price": 3.5,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 324,
+                "elec": 5611
+            }
+        }
+    },
+    "403\u623f": {
+        "rent": 400,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 177,
+                "elec": 5624
+            }
+        }
+    },
+    "405\u623f": {
+        "rent": 400,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 113,
+                "elec": 3927
+            }
+        }
+    },
+    "305\u3001306\u3001403\u3001405(\u4ec5\u623f\u79df)": {
+        "rent": 1600,
+        "water_price": 0.0,
+        "elec_price": 0.0,
+        "history": {
+            "2025-12": {
+                "water": 0,
+                "elec": 0
+            },
+            "2026-1": {
+                "water": 0.0,
+                "elec": 0.0
+            }
+        }
+    },
+    "\u8001\u6c99\u4e1c\u885726\u53f7": {
+        "rent": 2300,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 261,
+                "elec": 1024
+            }
+        }
+    },
+    "\u8001\u6c99\u4e1c\u885726\u53f7\u6c34\u7535": {
+        "rent": 0,
+        "water_price": 4.0,
+        "elec_price": 1.3,
+        "history": {
+            "2025-12": {
+                "water": 261,
+                "elec": 2987
+            }
+        }
+    }
+}
